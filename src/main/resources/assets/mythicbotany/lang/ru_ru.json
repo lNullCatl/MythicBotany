@@ -1,5 +1,5 @@
 {
-  "itemGroup.mythicbotany": "Мистическая ботания",
+  "itemGroup.mythicbotany": "MythicBotany",
 
   "item.mythicbotany.asgard_rune": "Руна Асгарда",
   "item.mythicbotany.vanaheim_rune": "Руна Ванахейма",
@@ -19,7 +19,7 @@
   "item.mythicbotany.alfsteel_helmet": "Шлем альфстали",
   "item.mythicbotany.alfsteel_chestplate": "Нагрудник альфстали",
   "item.mythicbotany.alfsteel_leggings": "Поножи альфстали",
-  "item.mythicbotany.alfsteel_boots": "Сапоги альфстали",
+  "item.mythicbotany.alfsteel_boots": "Ботинки альфстали",
   "item.mythicbotany.mana_ring_greatest": "Величайшее кольцо маны",
   "item.mythicbotany.aura_ring_greatest": "Величайшее кольцо ауры",
   "item.mythicbotany.faded_nether_star": "Угасшая звезда Незера",
@@ -32,7 +32,7 @@
   "item.mythicbotany.fimbultyr_tablet": "Руническая табличка Фимбультира",
   "item.mythicbotany.kvasir_blood": "Кровь Квасира",
   "item.mythicbotany.kvasir_mead": "Мёд Квасира",
-  "item.mythicbotany.dream_cherry": "Вишня грёз",
+  "item.mythicbotany.dream_cherry": "Вишня мечтаний",
   "item.mythicbotany.alf_pixie_spawn_egg": "Яйцо призыва альфхеймского пикси",
   "item.mythicbotany.raw_elementium": "Необработанный элементий",
 
@@ -58,7 +58,7 @@
   "block.mythicbotany.rune_holder": "Держатель рун",
   "block.mythicbotany.central_rune_holder": "Центральный держатель рун",
   "block.mythicbotany.mjoellnir": "Мьёльнир",
-  "block.mythicbotany.dreamwood_leaves": "Листва дерева грёз",
+  "block.mythicbotany.dreamwood_leaves": "Листва дерева мечтаний",
   "block.mythicbotany.elementium_ore": "Элементиевая руда",
   "block.mythicbotany.dragonstone_ore": "Руда драконьего камня",
   "block.mythicbotany.gold_ore": "Золотая руда",
@@ -84,7 +84,7 @@
   "entity.mythicbotany.alf_pixie": "Пикси Альфхейма",
   "biome.mythicbotany.alfheim_plains": "Равнины Альфхейма",
   "biome.mythicbotany.alfheim_hills": "Холмы Альфхейма",
-  "biome.mythicbotany.dreamwood_forest": "Лес грёз",
+  "biome.mythicbotany.dreamwood_forest": "Лес мечтаний",
   "biome.mythicbotany.golden_fields": "Золотые поля",
   "biome.mythicbotany.alfheim_lakes": "Озёра Альфхейма",
   
@@ -116,7 +116,7 @@
   "message.mythicbotany.mjoellnir_heavy_drop": "Вы чувствуете, как сила покидает ваши руки. Вы больше не способны удерживать этот тяжёлый молот.",
   "message.mythicbotany.alfheim_not_loaded": "Измерение Альфхейм не загружено. Пожалуйста, попробуйте перезапустить игру или сервер.",
 
-  "advancements.mythicbotany.mythicbotany.root.title": "MythicBotany",
+  "advancements.mythicbotany.mythicbotany.root.title": "Мифическая ботания",
   "advancements.mythicbotany.mythicbotany.root.description": "Погрузитесь глубже в мир магии",
   "advancements.mythicbotany.mythicbotany.all_runes.title": "Мастер рун",
   "advancements.mythicbotany.mythicbotany.all_runes.description": "Создать все типы рун.",
